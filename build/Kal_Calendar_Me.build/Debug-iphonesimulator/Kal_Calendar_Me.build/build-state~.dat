@@ -1,0 +1,781 @@
+TKal_Calendar_Me
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me normal i386
+cCopyStringsFile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/en.lproj/InfoPlist.strings Kal_Calendar_Me/en.lproj/InfoPlist.strings
+cCpResource Kal.bundle build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle
+cCompileAssetCatalog /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Images.xcassets
+cProcessInfoPlistFile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Info.plist /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Info.plist
+cGenerateDSYMFile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me
+cTouch /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843D50000000000445870
+t1383613397
+s4479088
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843D8000000000088C680
+t1383613400
+s8963712
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843DD0000000001DB9910
+t1383613405
+s31168784
+
+N/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m
+c0000000050B83634000000000000105F
+t1354249780
+s4191
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal.bundle
+c0000000050B83634000000000000030E
+t1354249780
+s782
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m
+c0000000050B836340000000000000569
+t1354249780
+s1385
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m
+c0000000050B836340000000000000919
+t1354249780
+s2329
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m
+c0000000050B836340000000000001C7A
+t1354249780
+s7290
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m
+c0000000050B8363400000000000011E0
+t1354249780
+s4576
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m
+c0000000050B836340000000000000CB2
+t1354249780
+s3250
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m
+c0000000050B836340000000000001627
+t1354249780
+s5671
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m
+c0000000050B83634000000000000280E
+t1354249780
+s10254
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m
+c0000000050B836340000000000001661
+t1354249780
+s5729
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m
+c00000000535892660000000000000883
+t1398313574
+s2179
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Images.xcassets
+c00000000535892660000000000000088
+t1398313574
+s136
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Info.plist
+c0000000053589266000000000000049A
+t1398313574
+s1178
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch
+c00000000535892660000000000000158
+t1398313574
+s344
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/en.lproj/InfoPlist.strings
+c0000000053589266000000000000002D
+t1398313574
+s45
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m
+c00000000535892660000000000000154
+t1398313574
+s340
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m
+c0000000050B83634000000000000092B
+t1354249780
+s2347
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m
+c0000000050B8363400000000000004ED
+t1354249780
+s1261
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app
+t1398314080
+s306
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM
+t2
+s0
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Info.plist
+t1398314080
+s1016
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle
+t1398314073
+s782
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me
+t1398314073
+s128816
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/PkgInfo
+t1398314080
+s8
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/en.lproj/InfoPlist.strings
+t1398314073
+s42
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o
+t1398314072
+s66828
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o
+t1398314071
+s75360
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o
+t1398314071
+s54076
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o
+t1398314071
+s16632
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o
+t1398314071
+s69068
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o
+t1398314071
+s28560
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o
+t1398314071
+s58140
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o
+t1398314071
+s62008
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o
+t1398314071
+s78352
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o
+t1398314071
+s69260
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/Kal_Calendar_Me.LinkFileList
+c000000005358945500000000000007CB
+t1398314069
+s1995
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o
+t1398314071
+s13728
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o
+t1398314071
+s48004
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o
+t1398314071
+s3692
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/assetcatalog_dependencies.txt
+t1398314080
+s398
+
+N/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/assetcatalog_generated_info.plist
+t1398314080
+s525
+
+N/var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.pch
+t1398314070
+s113920
+
+N/var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.pch
+t1398314069
+s114320
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m
+r0
+
+CBuild AST from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3f39fad4cb08b941^3e9216d5cb08b941^---0#1#1#--18"Check dependencies36"34A85C7D-2041-438E-995C-747D3BA9950A-
+
+CCompileAssetCatalog /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Images.xcassets
+s420006873.042506
+e420006880.104116
+r1
+xCompileAssetCatalog
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Images.xcassets
+o2014-04-24 10:04:39.225 IBCocoaTouchImageCatalogTool[921:303] CFPreferences: user home directory at file:///Users/hanuman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/LaunchImage-700-568h@2x.png
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Assets.car
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CompileAssetCatalog build/Debug-iphonesimulator/Kal_Calendar_Me.app Kal_Calendar_Me/Images.xcassets99"CompileAssetCatalog build/Debug-iphonesimulator/Kal_Calendar_Me.app Kal_Calendar_Me/Images.xcassets83fa0ad9cb08b941^cea71ae0cb08b941^-650"2014-04-24 10:04:39.225 IBCocoaTouchImageCatalogTool[921:303] CFPreferences: user home directory at file:///Users/hanuman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/LaunchImage-700-568h@2x.png/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Assets.car/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@86"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Images.xcassets/0000000000000000^1203"CompileAssetCatalog build/Debug-iphonesimulator/Kal_Calendar_Me.app Kal_Calendar_Me/Images.xcassets    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Images.xcassets36"ED2BA10D-4FD8-465F-827A-D386DC5D6C4E-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.582899
+e420006872.015823
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m212"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o Kal_Calendar_Me/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler245f95d7cb08b941^3d0d04d8cb08b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m0000000000000000^3864"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o Kal_Calendar_Me/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o36"6232EF46-57B9-4C5D-B135-E98553263453-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006870.867706
+e420006871.812290
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m210"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o EventKitDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler293eded6cb08b941^15abd2d7cb08b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m0000000000000000^3888"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o EventKitDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/EventKitDataSource.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o36"CBD9416B-0216-44DF-9449-6D199AC83A7B-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.887055
+e420006872.005090
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m200"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o KalDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler293de3d7cb08b941^374f01d8cb08b941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m0000000000000000^3858"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o KalDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o36"3F820B07-0BD8-4869-933F-609A9921098E-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.662175
+e420006871.802516
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m188"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o KalDate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4faea9d7cb08b941^ada3d2d7cb08b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m0000000000000000^3822"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o KalDate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o36"A58C965F-CA55-4EEC-811A-A32138C12EA6-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006870.867951
+e420006871.578787
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m196"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o KalGridView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c5dded6cb08b941^632b94d7cb08b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m0000000000000000^3846"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o KalGridView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o36"A74D4025-3361-485E-B630-BF496E91756C-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.662110
+e420006871.743442
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m190"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o KalLogic.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4faea9d7cb08b941^bd56bed7cb08b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m0000000000000000^3828"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o KalLogic.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o36"46BD3F5C-11CD-4D2A-B228-319A108FA25C-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.816706
+e420006871.985437
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m198"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o KalMonthView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6539d1d7cb08b941^3449fcd7cb08b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m0000000000000000^3852"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o KalMonthView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalMonthView.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o36"0BECDF3B-DEB8-4CC8-AA49-E3AFCD7E2789-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006870.868387
+e420006871.580400
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:38:3: warning: 'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]
+o  CGContextSelectFont(ctx, [font.fontName cStringUsingEncoding:NSUTF8StringEncoding], fontSize, kCGEncodingMacRoman);
+o  ^
+oIn module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:
+oIn module 'CoreGraphics' imported from /Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:
+o/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:988:16: note: 'CGContextSelectFont' declared here
+oCG_EXTERN void CGContextSelectFont(CGContextRef c, const char *name,
+o               ^
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:74:30: warning: 'sizeWithFont:' is deprecated: first deprecated in iOS 7.0 - Use -sizeWithAttributes: [-Wdeprecated-declarations]
+o  CGSize textSize = [dayText sizeWithFont:font];
+o                             ^
+oIn module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:
+o/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:59:1: note: method 'sizeWithFont:' declared here
+o- (CGSize)sizeWithFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -sizeWithAttributes:");
+o^
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:80:5: warning: 'CGContextShowTextAtPoint' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]
+o    CGContextShowTextAtPoint(ctx, textX, textY, day, n >= 10 ? 2 : 1);
+o    ^
+oIn module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:
+oIn module 'CoreGraphics' imported from /Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:
+o/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:1002:16: note: 'CGContextShowTextAtPoint' declared here
+oCG_EXTERN void CGContextShowTextAtPoint(CGContextRef c, CGFloat x, CGFloat y,
+o               ^
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:84:3: warning: 'CGContextShowTextAtPoint' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]
+o  CGContextShowTextAtPoint(ctx, textX, textY, day, n >= 10 ? 2 : 1);
+o  ^
+oIn module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:
+oIn module 'CoreGraphics' imported from /Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:
+o/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:1002:16: note: 'CGContextShowTextAtPoint' declared here
+oCG_EXTERN void CGContextShowTextAtPoint(CGContextRef c, CGFloat x, CGFloat y,
+o               ^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m196"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o KalTileView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8273ded6cb08b941^929494d7cb08b941^-3481"/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:38:3: warning: 'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]  CGContextSelectFont(ctx, [font.fontName cStringUsingEncoding:NSUTF8StringEncoding], fontSize, kCGEncodingMacRoman);  ^In module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:In module 'CoreGraphics' imported from /Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:988:16: note: 'CGContextSelectFont' declared hereCG_EXTERN void CGContextSelectFont(CGContextRef c, const char *name,               ^/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:74:30: warning: 'sizeWithFont:' is deprecated: first deprecated in iOS 7.0 - Use -sizeWithAttributes: [-Wdeprecated-declarations]  CGSize textSize = [dayText sizeWithFont:font];                             ^In module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:59:1: note: method 'sizeWithFont:' declared here- (CGSize)sizeWithFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -sizeWithAttributes:");^/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:80:5: warning: 'CGContextShowTextAtPoint' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]    CGContextShowTextAtPoint(ctx, textX, textY, day, n >= 10 ? 2 : 1);    ^In module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:In module 'CoreGraphics' imported from /Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:1002:16: note: 'CGContextShowTextAtPoint' declared hereCG_EXTERN void CGContextShowTextAtPoint(CGContextRef c, CGFloat x, CGFloat y,               ^/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m:84:3: warning: 'CGContextShowTextAtPoint' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]  CGContextShowTextAtPoint(ctx, textX, textY, day, n >= 10 ? 2 : 1);  ^In module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.h:6:In module 'CoreGraphics' imported from /Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:1002:16: note: 'CGContextShowTextAtPoint' declared hereCG_EXTERN void CGContextShowTextAtPoint(CGContextRef c, CGFloat x, CGFloat y,               ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@64"'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0-420006871#18446744073709551615#0#1(2@35"'CGContextSelectFont' declared here-420006871#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@195"file:///Applications/Xcode%202.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h0000000000000000^987#15#987#15#40064#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m0000000000000000^37#2#37#2#872#0#12"Deprecations--2@85"'sizeWithFont:' is deprecated: first deprecated in iOS 7.0 - Use -sizeWithAttributes:-420006871#18446744073709551615#0#1(2@36"Method 'sizeWithFont:' declared here-420006871#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@194"file:///Applications/Xcode%202.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^58#0#58#0#3133#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m0000000000000000^73#29#73#29#3001#0#12"Deprecations--2@69"'CGContextShowTextAtPoint' is deprecated: first deprecated in iOS 7.0-420006871#18446744073709551615#0#1(2@40"'CGContextShowTextAtPoint' declared here-420006871#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@195"file:///Applications/Xcode%202.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h0000000000000000^1001#15#1001#15#40538#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m0000000000000000^79#4#79#4#3227#0#12"Deprecations--2@69"'CGContextShowTextAtPoint' is deprecated: first deprecated in iOS 7.0-420006871#18446744073709551615#0#1(2@40"'CGContextShowTextAtPoint' declared here-420006871#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@195"file:///Applications/Xcode%202.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h0000000000000000^1001#15#1001#15#40538#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m0000000000000000^83#2#83#2#3341#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@67"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m0000000000000000^3846"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o KalTileView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalTileView.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o36"5AF983C7-B39A-4825-957A-70A3321FEC50-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006870.869299
+e420006871.591505
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalGridView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m:107:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o  headerTitleLabel.textAlignment = UITextAlignmentCenter;
+o                                   ^
+oIn module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h:6:
+o/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m:138:34: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    weekdayLabel.textAlignment = UITextAlignmentCenter;
+o                                 ^
+oIn module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h:6:
+o/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m188"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o KalView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4added6cb08b941^039397d7cb08b941^-1268"/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m:107:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]  headerTitleLabel.textAlignment = UITextAlignmentCenter;                                   ^In module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h:6:/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m:138:34: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    weekdayLabel.textAlignment = UITextAlignmentCenter;                                 ^In module 'UIKit' imported from /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h:6:/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-420006871#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-420006871#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@194"file:///Applications/Xcode%202.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m0000000000000000^106#35#106#35#4290#0#12"Deprecations--2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-420006871#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-420006871#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@194"file:///Applications/Xcode%202.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m0000000000000000^137#33#137#33#6452#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@63"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m0000000000000000^3822"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o KalView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o36"EC6F0E0B-A188-4393-8B5C-101C76078A04-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.804824
+e420006871.992539
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalView.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDataSource.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalLogic.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalDate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalPrivate.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m208"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o KalViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler342cced7cb08b941^b117fed7cb08b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m0000000000000000^3882"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o KalViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/KalViewController.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o36"A1AD445C-0E18-43CD-827C-EB485A6C21DD-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.581829
+e420006871.659958
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m204"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o NSDateAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2f1795d7cb08b941^7bfaa8d7cb08b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m0000000000000000^3870"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o NSDateAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/NSDateAdditions.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o36"7C1CA975-0146-4574-BBFD-68E1F6B5C95F-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.745694
+e420006871.880033
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m204"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o UIViewAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e0bbfd7cb08b941^596ee5d7cb08b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m0000000000000000^3870"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o UIViewAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/UIViewAdditions.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o36"74E9ED03-FCD5-4104-AAF0-380F256D6AF3-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006871.595641
+e420006871.659936
+r1
+xCompileC
+xbuild/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m198"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o Kal_Calendar_Me/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler44a298d7cb08b941^bff2a8d7cb08b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m0000000000000000^3822"CompileC build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o Kal_Calendar_Me/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -include /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch -MMD -MT dependencies -MF /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.dia -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/main.m -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o36"E182BCBF-D929-4DB2-B773-26283B01E0E2-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCopyStringsFile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/en.lproj/InfoPlist.strings Kal_Calendar_Me/en.lproj/InfoPlist.strings
+s420006873.040777
+e420006873.042573
+r1
+xCopyStringsFile
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/en.lproj/InfoPlist.strings
+xKal_Calendar_Me/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy Kal_Calendar_Me/en.lproj/InfoPlist.strings133"CopyStringsFile build/Debug-iphonesimulator/Kal_Calendar_Me.app/en.lproj/InfoPlist.strings Kal_Calendar_Me/en.lproj/InfoPlist.strings9c8c0ad9cb08b941^0ce70ad9cb08b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/en.lproj/InfoPlist.strings0000000000000000^627"CopyStringsFile build/Debug-iphonesimulator/Kal_Calendar_Me.app/en.lproj/InfoPlist.strings Kal_Calendar_Me/en.lproj/InfoPlist.strings    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/en.lproj -- Kal_Calendar_Me/en.lproj/InfoPlist.strings36"850E209F-D8C1-43BF-B440-2E871B8684E7-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CCpResource Kal.bundle build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle
+s420006873.041090
+e420006873.155045
+r1
+xCpResource
+xKal.bundle
+xbuild/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle80"CpResource Kal.bundle build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle3d9a0ad9cb08b941^a2b427d9cb08b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle003448f4deffdf42^599"CpResource Kal.bundle build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal.bundle    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal.bundle /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app36"5689629E-2BA1-44C3-B709-97BC391924B0-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CGenerateDSYMFile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me
+s420006880.264538
+e420006880.452062
+r1
+xGenerateDSYMFile
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM133"GenerateDSYMFile build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Med5cb43e0cb08b941^feb673e0cb08b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM003448f4deffdf42^704"GenerateDSYMFile build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app.dSYM36"257570E4-9D10-42D3-9FC5-6728BB51B951-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CLd /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me normal i386
+s420006872.019240
+e420006873.037222
+r1
+xLd
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me
+xnormal
+xi386
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/Kal_Calendar_Me.LinkFileList
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/EventKitDataSource.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalGridView.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalTileView.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalView.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/NSDateAdditions.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/AppDelegate.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/main.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalLogic.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDate.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/UIViewAdditions.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalViewController.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalMonthView.o
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/KalDataSource.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me78"Ld build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me normal i386690205d8cb08b941^6e8809d9cb08b941^---0#0#1#--1463"Ld build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me normal i386    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -filelist /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/Kal_Calendar_Me.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Objects-normal/i386/Kal_Calendar_Me_dependency_info.dat -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Kal_Calendar_Me36"B7B01DBE-49C2-4CE8-916B-4CB9E454A9CC-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CProcessInfoPlistFile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Info.plist /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Info.plist
+s420006880.176613
+e420006880.258089
+r1
+xProcessInfoPlistFile
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Info.plist
+x/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Process /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Info.plist122"ProcessInfoPlistFile build/Debug-iphonesimulator/Kal_Calendar_Me.app/Info.plist Kal_Calendar_Me/Kal_Calendar_Me-Info.plista9502de0cb08b941^3c1342e0cb08b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Info.plist0000000000000000^957"ProcessInfoPlistFile build/Debug-iphonesimulator/Kal_Calendar_Me.app/Info.plist Kal_Calendar_Me/Kal_Calendar_Me-Info.plist    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Info.plist -genpkginfo /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/assetcatalog_generated_info.plist -o /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app/Info.plist36"3E556389-519B-4C14-93CC-12923F486946-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CProcessPCH /Users/hanuman/Library/Developer/Xcode/DerivedData/Kal_Calendar_Me-ftsoenqpjbukclgweoykgnstgfzn/Index/PrecompiledHeaders/Kal_Calendar_Me-Prefix-cegnewbxcgvkjrelrflvzpldmxfx_ast/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/hanuman/Library/Developer/Xcode/DerivedData/Kal_Calendar_Me-ftsoenqpjbukclgweoykgnstgfzn/Index/PrecompiledHeaders/Kal_Calendar_Me-Prefix-cloyxsivvrsidzgelmkblxbzllhg_ast/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006869.089487
+e420006870.865567
+r1
+xProcessPCH
+x/var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.pch
+xKal_Calendar_Me/Kal_Calendar_Me-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch322"ProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler890c17d5cb08b941^f298ddd6cb08b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch0000000000000000^3942"ProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator -fno-objc-arc --serialize-diagnostics /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.d -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch -o /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-cltpmypmdwyeosdmpsgyzkjmjicc/Kal_Calendar_Me-Prefix.pch.pch36"1D3CAA31-53BC-4644-AC47-8438578C4119-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420006869.089990
+e420006869.703298
+r1
+xProcessPCH
+x/var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.pch
+xKal_Calendar_Me/Kal_Calendar_Me-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch322"ProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler483217d5cb08b941^2c0db4d5cb08b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch0000000000000000^3928"ProcessPCH /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.pch Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanuman/Documents/Babul/Kal_Calendar_Me    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanuman/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-generated-files.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-own-target-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-all-target-headers.hmap -iquote /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/Kal_Calendar_Me-project-headers.hmap -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources/i386 -I/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Kal_Calendar_Me.build/Debug-iphonesimulator/Kal_Calendar_Me.build/DerivedSources -F/Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.d -c /Users/hanuman/Documents/Babul/Kal_Calendar_Me/Kal_Calendar_Me/Kal_Calendar_Me-Prefix.pch -o /var/folders/l8/58k53h512972d6yv2n8sn2200000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Kal_Calendar_Me-Prefix-epykhtgrxbzblhcfpsettieoxluc/Kal_Calendar_Me-Prefix.pch.pch36"6993AAE3-A243-4697-A028-7DE93D7B1D92-
+b59DAD655-5306-4BD2-A8AC-ACB80D2F9526
+
+CTouch /Users/hanuman/Documents/Babul/Kal_Calendar_Me/build/Debug-iphonesimulator/Kal_Calendar_Me.app
+r0
+
